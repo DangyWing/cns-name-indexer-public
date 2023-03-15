@@ -1,0 +1,8 @@
+{
+    "crons": [
+      {
+        "path": "/api/fetchMintedTokens",
+        "schedule": "6 * * * *"
+      }
+    ]
+  }

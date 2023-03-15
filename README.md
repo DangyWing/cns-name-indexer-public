@@ -1,0 +1,1 @@
+# Simple project to fetch newly registered names for Canto Name Service
